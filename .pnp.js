@@ -38,7 +38,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["@types/jest", "npm:26.0.23"],
-            ["@types/node", "npm:14.17.0"],
+            ["@types/node", "npm:14.17.4"],
             ["husky", "npm:6.0.0"],
             ["jest", "npm:26.6.3"],
             ["lint-staged", "npm:11.0.0"],
@@ -992,10 +992,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/node", [
-        ["npm:14.17.0", {
-          "packageLocation": "./.yarn/cache/@types-node-npm-14.17.0-2942ba859f-f437147b39.zip/node_modules/@types/node/",
+        ["npm:14.17.4", {
+          "packageLocation": "./.yarn/cache/@types-node-npm-14.17.4-52a7500a10-947ada8b39.zip/node_modules/@types/node/",
           "packageDependencies": [
-            ["@types/node", "npm:14.17.0"]
+            ["@types/node", "npm:14.17.4"]
           ],
           "linkType": "HARD",
         }],
@@ -6262,7 +6262,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["tommasoamici-typescript-template", "workspace:."],
             ["@types/jest", "npm:26.0.23"],
-            ["@types/node", "npm:14.17.0"],
+            ["@types/node", "npm:14.17.4"],
             ["husky", "npm:6.0.0"],
             ["jest", "npm:26.6.3"],
             ["lint-staged", "npm:11.0.0"],

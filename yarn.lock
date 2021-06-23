@@ -744,10 +744,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:14.17.0":
-  version: 14.17.0
-  resolution: "@types/node@npm:14.17.0"
-  checksum: f437147b39e04b23272eae604ec301b5a91956d386f96a2a796efa856d813df116c1afea511b2c23d908c0456c479bad32862aea6d6f0eaffcc1056603b98e64
+"@types/node@npm:14.17.4":
+  version: 14.17.4
+  resolution: "@types/node@npm:14.17.4"
+  checksum: 947ada8b39710c8fedf60f342b4ac1a08de8ebfbd4f09471b4e0006c2b0c7b832513e4dc2cdd455af5236910e2e725899bd9ce0aaecd097b2867d3e2ab62d8c6
   languageName: node
   linkType: hard
 
@@ -5377,7 +5377,7 @@ fsevents@^2.1.2:
   resolution: "tommasoamici-typescript-template@workspace:."
   dependencies:
     "@types/jest": 26.0.23
-    "@types/node": 14.17.0
+    "@types/node": 14.17.4
     husky: 6.0.0
     jest: 26.6.3
     lint-staged: 11.0.0
