@@ -3,4 +3,9 @@ module.exports = {
   testEnvironment: "node",
   collectCoverage: true,
   collectCoverageFrom: ["src/**/*.{ts,tsx}"],
+  testMatch: [
+    "**/__tests__/**/*.[jt]s?(x)",
+    "**/?(*.)+(spec|test).[jt]s?(x)",
+    "!**/__tests__/exampleIndex.js",
+  ],
 };

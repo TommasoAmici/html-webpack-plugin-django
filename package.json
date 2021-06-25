@@ -17,7 +17,7 @@
     "email": "me@tommasoamici.com"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -b tsconfig.build.json",
     "test": "jest --passWithNoTests",
     "format": "prettier --write .",
     "postinstall": "husky install",
@@ -40,5 +40,9 @@
   },
   "engines": {
     "node": ">=12.13.0"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.40.0"
   }
 }
