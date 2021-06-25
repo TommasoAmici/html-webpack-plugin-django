@@ -4,8 +4,7 @@ A template for Typescript projects
 
 ## At a glance
 
-<img src="https://img.shields.io/bundlephobia/minzip/html-webpack-plugin-django">
-<img src="https://img.shields.io/npm/v/html-webpack-plugin-django">
+[![Node.js CI](https://github.com/TommasoAmici/html-webpack-plugin-django/actions/workflows/build.yml/badge.svg)](https://github.com/TommasoAmici/html-webpack-plugin-django/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/TommasoAmici/html-webpack-plugin-django/branch/main/graph/badge.svg?token=KYeOxoHseJ)](https://codecov.io/gh/TommasoAmici/html-webpack-plugin-django) <img src="https://img.shields.io/bundlephobia/minzip/html-webpack-plugin-django"> <img src="https://img.shields.io/npm/v/html-webpack-plugin-django">
 
 ## Getting started
 
