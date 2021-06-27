@@ -1,8 +1,14 @@
 {
   "name": "html-webpack-plugin-django",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html",
+    "html-webpack-plugin",
+    "django"
+  ],
   "author": "Tommaso Amici",
   "license": "MIT",
   "main": "dist/index.js",
