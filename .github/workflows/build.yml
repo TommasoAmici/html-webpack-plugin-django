@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: yarn
-      - run: yarn test
+      - run: yarn test:ci
       - run: yarn build
 
       - name: Upload coverage to codecov

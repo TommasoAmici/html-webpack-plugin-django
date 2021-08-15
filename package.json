@@ -24,7 +24,8 @@
   },
   "scripts": {
     "build": "tsc -b tsconfig.build.json",
-    "test": "jest --passWithNoTests",
+    "test": "jest --watch --passWithNoTests",
+    "test:ci": "jest --ci --passWithNoTests",
     "format": "prettier --write .",
     "postinstall": "husky install",
     "prepublishOnly": "pinst --disable",
