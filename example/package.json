@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "packageManager": "yarn@3.0.2",
+  "scripts": {
+    "dev": "webpack --watch --progress -d eval-source-map --mode development --performance-hints warning",
+    "build-dev": "webpack -d eval-source-map --mode development --performance-hints warning",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^6.4.0",
+    "esbuild-loader": "^2.16.0",
+    "html-webpack-plugin": "^5.4.0",
+    "html-webpack-plugin-django": "workspace:.",
+    "mini-css-extract-plugin": "^2.4.3",
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  },
+  "devDependencies": {
+    "@types/mini-css-extract-plugin": "^2"
+  }
+}
