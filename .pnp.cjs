@@ -3270,7 +3270,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["clean-webpack-plugin", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:4.0.0"],
             ["css-loader", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:6.4.0"],
             ["esbuild-loader", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:2.16.0"],
-            ["html-webpack-plugin", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.4.0"],
+            ["html-webpack-plugin", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.5.0"],
             ["html-webpack-plugin-django", "workspace:."],
             ["mini-css-extract-plugin", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:2.4.3"],
             ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.59.1"],
@@ -3652,15 +3652,22 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.4.0", {
-          "packageLocation": "./.yarn/__virtual__/html-webpack-plugin-virtual-37d3ec6358/0/cache/html-webpack-plugin-npm-5.4.0-190e4589f6-4963e1955d.zip/node_modules/html-webpack-plugin/",
+        ["npm:5.5.0", {
+          "packageLocation": "./.yarn/cache/html-webpack-plugin-npm-5.5.0-75c5a14e55-f3d84d0df7.zip/node_modules/html-webpack-plugin/",
           "packageDependencies": [
-            ["html-webpack-plugin", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.4.0"],
+            ["html-webpack-plugin", "npm:5.5.0"]
+          ],
+          "linkType": "SOFT",
+        }],
+        ["virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.5.0", {
+          "packageLocation": "./.yarn/__virtual__/html-webpack-plugin-virtual-16df36b2e7/0/cache/html-webpack-plugin-npm-5.5.0-75c5a14e55-f3d84d0df7.zip/node_modules/html-webpack-plugin/",
+          "packageDependencies": [
+            ["html-webpack-plugin", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.5.0"],
             ["@types/html-minifier-terser", "npm:6.0.0"],
             ["@types/webpack", null],
             ["html-minifier-terser", "npm:6.0.2"],
             ["lodash", "npm:4.17.21"],
-            ["pretty-error", "npm:3.0.4"],
+            ["pretty-error", "npm:4.0.0"],
             ["tapable", "npm:2.2.0"],
             ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.59.1"]
           ],
@@ -5798,6 +5805,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["renderkid", "npm:2.0.7"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:4.0.0", {
+          "packageLocation": "./.yarn/cache/pretty-error-npm-4.0.0-7cca1fe4ad-a5b9137365.zip/node_modules/pretty-error/",
+          "packageDependencies": [
+            ["pretty-error", "npm:4.0.0"],
+            ["lodash", "npm:4.17.21"],
+            ["renderkid", "npm:3.0.0"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["pretty-format", [
@@ -5946,6 +5962,18 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["htmlparser2", "npm:6.1.0"],
             ["lodash", "npm:4.17.21"],
             ["strip-ansi", "npm:3.0.1"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:3.0.0", {
+          "packageLocation": "./.yarn/cache/renderkid-npm-3.0.0-acb028643f-77162b62d6.zip/node_modules/renderkid/",
+          "packageDependencies": [
+            ["renderkid", "npm:3.0.0"],
+            ["css-select", "npm:4.1.3"],
+            ["dom-converter", "npm:0.2.0"],
+            ["htmlparser2", "npm:6.1.0"],
+            ["lodash", "npm:4.17.21"],
+            ["strip-ansi", "npm:6.0.1"]
           ],
           "linkType": "HARD",
         }]
@@ -6423,6 +6451,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/strip-ansi-npm-6.0.0-904613e9eb-04c3239ede.zip/node_modules/strip-ansi/",
           "packageDependencies": [
             ["strip-ansi", "npm:6.0.0"],
+            ["ansi-regex", "npm:5.0.1"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:6.0.1", {
+          "packageLocation": "./.yarn/cache/strip-ansi-npm-6.0.1-caddc7cb40-f3cd25890a.zip/node_modules/strip-ansi/",
+          "packageDependencies": [
+            ["strip-ansi", "npm:6.0.1"],
             ["ansi-regex", "npm:5.0.1"]
           ],
           "linkType": "HARD",
