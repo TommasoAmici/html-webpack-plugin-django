@@ -2470,7 +2470,7 @@ __metadata:
     html-webpack-plugin: 5.5.0
     html-webpack-plugin-django: "workspace:."
     mini-css-extract-plugin: 2.4.4
-    webpack: 5.62.1
+    webpack: 5.62.2
     webpack-cli: ^4.9.0
   languageName: unknown
   linkType: soft
@@ -5731,9 +5731,9 @@ typescript@4.4.4:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.62.1":
-  version: 5.62.1
-  resolution: "webpack@npm:5.62.1"
+"webpack@npm:5.62.2":
+  version: 5.62.2
+  resolution: "webpack@npm:5.62.2"
   dependencies:
     "@types/eslint-scope": ^3.7.0
     "@types/estree": ^0.0.50
@@ -5764,7 +5764,7 @@ typescript@4.4.4:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: 85d9bc7e9b4a0d59420831b1cffaed771818a7abbff3e25215246df6c5abe7806eeee8ca28b15f2dd3b34f64b05586dc138a3b181ce99d1887370301c4ce7e2e
+  checksum: ed2c134ba679b0f167aa286bf30ba0e49f61881f712534e5d471979482df6472dbdf64553c1952b4ee5e75ade8c24efcfa022a60b65c3703dc1bd28d206ae9d9
   languageName: node
   linkType: hard
 
