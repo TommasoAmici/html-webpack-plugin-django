@@ -13,7 +13,7 @@
     "html-webpack-plugin": "5.5.0",
     "html-webpack-plugin-django": "workspace:.",
     "mini-css-extract-plugin": "2.4.5",
-    "webpack": "5.64.1",
+    "webpack": "5.64.2",
     "webpack-cli": "^4.9.0"
   },
   "devDependencies": {
