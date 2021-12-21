@@ -41,7 +41,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["@types/jest", "npm:27.0.3"],
-            ["@types/node", "npm:16.11.14"],
+            ["@types/node", "npm:16.11.15"],
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.4.0"],
             ["husky", "npm:7.0.4"],
             ["jest", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:27.4.5"],
@@ -1322,10 +1322,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:16.11.14", {
-          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.14-6c86c6e905-0bd4333fb4.zip/node_modules/@types/node/",
+        ["npm:16.11.15", {
+          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.15-7a11f0f419-30969f1c43.zip/node_modules/@types/node/",
           "packageDependencies": [
-            ["@types/node", "npm:16.11.14"]
+            ["@types/node", "npm:16.11.15"]
           ],
           "linkType": "HARD",
         }]
@@ -3776,7 +3776,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["html-webpack-plugin-django", "workspace:."],
             ["@types/jest", "npm:27.0.3"],
-            ["@types/node", "npm:16.11.14"],
+            ["@types/node", "npm:16.11.15"],
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.4.0"],
             ["husky", "npm:7.0.4"],
             ["jest", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:27.4.5"],
