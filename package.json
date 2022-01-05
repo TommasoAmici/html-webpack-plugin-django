@@ -54,5 +54,6 @@
   },
   "workspaces": [
     "example"
-  ]
+  ],
+  "packageManager": "yarn@3.1.1"
 }
