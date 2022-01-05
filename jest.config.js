@@ -6,6 +6,6 @@ module.exports = {
   testMatch: [
     "**/__tests__/**/*.[jt]s?(x)",
     "**/?(*.)+(spec|test).[jt]s?(x)",
-    "!**/__tests__/exampleIndex.js",
+    "!**/__tests__/e2e.test.js",
   ],
 };

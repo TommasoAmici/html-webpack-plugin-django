@@ -61,7 +61,3 @@ Please file a report in [this repository's issues](https://github.com/TommasoAmi
 If you want to contribute to this project, that's great to hear!
 
 You can start at [CONTRIBUTING.md](./CONTRIBUTING.md).
-
-## To do
-
-- Add integration test with Webpack and `html-webpack-plugin`
