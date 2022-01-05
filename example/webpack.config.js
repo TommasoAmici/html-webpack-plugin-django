@@ -1,43 +1,22 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const HtmlWebpackPluginDjango = require("html-webpack-plugin-django");
-const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 
 const templateContent = ({ htmlWebpackPlugin }) =>
-  `{% load static %}${htmlWebpackPlugin.tags.headTags}${htmlWebpackPlugin.tags.bodyTags}`;
+  `{% load static %}
+  ${htmlWebpackPlugin.tags.headTags}
+  ${htmlWebpackPlugin.tags.bodyTags}`;
 
 module.exports = () => {
   return {
     entry: {
-      index: "./myapp/static/index.ts",
+      index: "./myapp/static/index.js",
     },
     output: {
       path: path.resolve("myapp/static/dist"),
       filename: "js/[name].[contenthash].js",
       publicPath: "/static/",
-    },
-    module: {
-      rules: [
-        {
-          test: /\.{js,ts}$/,
-          use: "esbuild-loader",
-        },
-        {
-          test: /\.css$/i,
-          use: [
-            MiniCssExtractPlugin.loader,
-            "css-loader",
-            {
-              loader: "esbuild-loader",
-              options: {
-                loader: "css",
-                minify: true,
-              },
-            },
-          ],
-        },
-      ],
     },
     plugins: [
       new HtmlWebpackPlugin({
@@ -51,7 +30,6 @@ module.exports = () => {
         cache: true,
       }),
       new HtmlWebpackPluginDjango({ bundlePath: "dist" }),
-      new MiniCssExtractPlugin(),
       new CleanWebpackPlugin(),
     ],
     resolve: {

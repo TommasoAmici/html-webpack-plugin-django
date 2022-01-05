@@ -1,0 +1,1 @@
+(self.webpackChunkexample=self.webpackChunkexample||[]).push([[826],{94:()=>{document.addEventListener("DOMContentLoaded",(()=>{const e=document.querySelector("main"),t=document.createElement("div");t.className="red-square",e.appendChild(t),setTimeout((()=>{t.style.opacity="1"}),500)}))}},e=>{e(e.s=94)}]);
