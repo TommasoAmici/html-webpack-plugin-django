@@ -48,7 +48,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.0"],
             ["husky", "npm:7.0.4"],
             ["jest", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:27.5.1"],
-            ["jest-puppeteer", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.0.3"],
+            ["jest-puppeteer", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.1.0"],
             ["lint-staged", "npm:12.3.5"],
             ["pinst", "npm:2.1.6"],
             ["prettier", "npm:2.5.1"],
@@ -3391,10 +3391,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["expect-puppeteer", [
-        ["npm:6.0.2", {
-          "packageLocation": "./.yarn/cache/expect-puppeteer-npm-6.0.2-7e283c0ad1-16847469b3.zip/node_modules/expect-puppeteer/",
+        ["npm:6.1.0", {
+          "packageLocation": "./.yarn/cache/expect-puppeteer-npm-6.1.0-d8a911e1e7-50f6e1b2ae.zip/node_modules/expect-puppeteer/",
           "packageDependencies": [
-            ["expect-puppeteer", "npm:6.0.2"]
+            ["expect-puppeteer", "npm:6.1.0"]
           ],
           "linkType": "HARD",
         }]
@@ -3942,7 +3942,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.0"],
             ["husky", "npm:7.0.4"],
             ["jest", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:27.5.1"],
-            ["jest-puppeteer", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.0.3"],
+            ["jest-puppeteer", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.1.0"],
             ["lint-staged", "npm:12.3.5"],
             ["pinst", "npm:2.1.6"],
             ["prettier", "npm:2.5.1"],
@@ -4874,19 +4874,19 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["jest-puppeteer", [
-        ["npm:6.0.3", {
-          "packageLocation": "./.yarn/cache/jest-puppeteer-npm-6.0.3-8552e4959a-8577f52024.zip/node_modules/jest-puppeteer/",
+        ["npm:6.1.0", {
+          "packageLocation": "./.yarn/cache/jest-puppeteer-npm-6.1.0-ffc599fe7f-1bc25c24ee.zip/node_modules/jest-puppeteer/",
           "packageDependencies": [
-            ["jest-puppeteer", "npm:6.0.3"]
+            ["jest-puppeteer", "npm:6.1.0"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.0.3", {
-          "packageLocation": "./.yarn/__virtual__/jest-puppeteer-virtual-038462c4b6/0/cache/jest-puppeteer-npm-6.0.3-8552e4959a-8577f52024.zip/node_modules/jest-puppeteer/",
+        ["virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.1.0", {
+          "packageLocation": "./.yarn/__virtual__/jest-puppeteer-virtual-2faa3a314f/0/cache/jest-puppeteer-npm-6.1.0-ffc599fe7f-1bc25c24ee.zip/node_modules/jest-puppeteer/",
           "packageDependencies": [
-            ["jest-puppeteer", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.0.3"],
+            ["jest-puppeteer", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.1.0"],
             ["@types/puppeteer", "npm:5.4.5"],
-            ["expect-puppeteer", "npm:6.0.2"],
+            ["expect-puppeteer", "npm:6.1.0"],
             ["jest-environment-puppeteer", "npm:6.0.3"],
             ["puppeteer", "npm:13.1.2"]
           ],
