@@ -2536,10 +2536,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"expect-puppeteer@npm:^6.0.2":
-  version: 6.0.2
-  resolution: "expect-puppeteer@npm:6.0.2"
-  checksum: 16847469b3a09b56d05bb78bd46d1669582d63ea1b59f261337c1f66dbedd06d5dee38cb3d0722b7f3bd2875aecbde4a85eea051bb7c6f9fdcca15612dfca95c
+"expect-puppeteer@npm:^6.1.0":
+  version: 6.1.0
+  resolution: "expect-puppeteer@npm:6.1.0"
+  checksum: 50f6e1b2aecf15724a7d51ac876e0f0767b786a3a1bcf2a0648e36653375643ba9f81d25d9c8b7f4d4990c218409c80ffa39694c6dbfbab235adef585995426e
   languageName: node
   linkType: hard
 
@@ -2999,7 +2999,7 @@ fsevents@^2.3.2:
     html-webpack-plugin: ^5.5.0
     husky: 7.0.4
     jest: 27.5.1
-    jest-puppeteer: ^6.0.3
+    jest-puppeteer: 6.1.0
     lint-staged: 12.3.5
     pinst: 2.1.6
     prettier: 2.5.1
@@ -3824,15 +3824,15 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"jest-puppeteer@npm:^6.0.3":
-  version: 6.0.3
-  resolution: "jest-puppeteer@npm:6.0.3"
+"jest-puppeteer@npm:6.1.0":
+  version: 6.1.0
+  resolution: "jest-puppeteer@npm:6.1.0"
   dependencies:
-    expect-puppeteer: ^6.0.2
+    expect-puppeteer: ^6.1.0
     jest-environment-puppeteer: ^6.0.3
   peerDependencies:
     puppeteer: ">= 1.5.0"
-  checksum: 8577f5202496f8eb907b42dec0cb71e4c70d28c50875cf8ace1d6e4c5b8e402af215d41b4856e47cdd9ef1738825da486eaadad467f6f867d13152f8ef1c2290
+  checksum: 1bc25c24eedcd4872bdd78a784db6b7f809f13e688864d627294655349e8a1f40bee78760af55e49331e4f75c35fb5f1c98c453389677db8688c3aa71bff1713
   languageName: node
   linkType: hard
 
