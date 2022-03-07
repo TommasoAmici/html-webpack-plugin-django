@@ -926,12 +926,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/puppeteer@npm:*, @types/puppeteer@npm:^5.4.4":
+"@types/puppeteer@npm:*":
   version: 5.4.4
   resolution: "@types/puppeteer@npm:5.4.4"
   dependencies:
     "@types/node": "*"
   checksum: 99aa9e8fe0234b5624e93b36e38b407c48e2b9663c46dfc651ee37819e7ce1d19dfcd61d5b3f23b3d0b0f606615e0f298a86b3116a1b3cd09aa139204731e3b1
+  languageName: node
+  linkType: hard
+
+"@types/puppeteer@npm:5.4.5":
+  version: 5.4.5
+  resolution: "@types/puppeteer@npm:5.4.5"
+  dependencies:
+    "@types/node": "*"
+  checksum: a63fbc8aff0cee957b39fbc64d451c8d37eb9ded7b3575ae36d4b8c901cfe2c217bcdd0ad35045842970cf18297bfa4038eea5e9d8f9379b988080f2546cc7ac
   languageName: node
   linkType: hard
 
@@ -2921,7 +2930,7 @@ fsevents@^2.3.2:
     "@types/jest": 27.4.0
     "@types/jest-environment-puppeteer": ^4.4.1
     "@types/node": 16.11.26
-    "@types/puppeteer": ^5.4.4
+    "@types/puppeteer": 5.4.5
     html-webpack-plugin: ^5.5.0
     husky: 7.0.4
     jest: 27.4.7
