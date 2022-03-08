@@ -831,6 +831,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/eslint-scope@npm:^3.7.3":
+  version: 3.7.3
+  resolution: "@types/eslint-scope@npm:3.7.3"
+  dependencies:
+    "@types/eslint": "*"
+    "@types/estree": "*"
+  checksum: 6772b05e1b92003d1f295e81bc847a61f4fbe8ddab77ffa49e84ed3f9552513bdde677eb53ef167753901282857dd1d604d9f82eddb34a233495932b2dc3dc17
+  languageName: node
+  linkType: hard
+
 "@types/eslint@npm:*":
   version: 7.2.13
   resolution: "@types/eslint@npm:7.2.13"
@@ -845,6 +855,13 @@ __metadata:
   version: 0.0.50
   resolution: "@types/estree@npm:0.0.50"
   checksum: 9a2b6a4a8c117f34d08fbda5e8f69b1dfb109f7d149b60b00fd7a9fb6ac545c078bc590aa4ec2f0a256d680cf72c88b3b28b60c326ee38a7bc8ee1ee95624922
+  languageName: node
+  linkType: hard
+
+"@types/estree@npm:^0.0.51":
+  version: 0.0.51
+  resolution: "@types/estree@npm:0.0.51"
+  checksum: e56a3bcf759fd9185e992e7fdb3c6a5f81e8ff120e871641607581fb3728d16c811702a7d40fa5f869b7f7b4437ab6a87eb8d98ffafeee51e85bbe955932a189
   languageName: node
   linkType: hard
 
@@ -2354,6 +2371,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"enhanced-resolve@npm:^5.9.2":
+  version: 5.9.2
+  resolution: "enhanced-resolve@npm:5.9.2"
+  dependencies:
+    graceful-fs: ^4.2.4
+    tapable: ^2.2.0
+  checksum: 792b7a01abb4ee4433b658c71f92d5948675938e0c03cad1732abe843b87395f15cb880ace4f819f78ead94163278283afc79b8be63c0eddca8ab45f7d8c515d
+  languageName: node
+  linkType: hard
+
 "entities@npm:^2.0.0":
   version: 2.2.0
   resolution: "entities@npm:2.2.0"
@@ -2504,7 +2531,7 @@ __metadata:
     clean-webpack-plugin: ^4.0.0
     html-webpack-plugin: ^5.5.0
     html-webpack-plugin-django: "workspace:."
-    webpack: 5.67.0
+    webpack: 5.70.0
     webpack-cli: 4.9.2
   languageName: unknown
   linkType: soft
@@ -6259,12 +6286,12 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.67.0":
-  version: 5.67.0
-  resolution: "webpack@npm:5.67.0"
+"webpack@npm:5.70.0":
+  version: 5.70.0
+  resolution: "webpack@npm:5.70.0"
   dependencies:
-    "@types/eslint-scope": ^3.7.0
-    "@types/estree": ^0.0.50
+    "@types/eslint-scope": ^3.7.3
+    "@types/estree": ^0.0.51
     "@webassemblyjs/ast": 1.11.1
     "@webassemblyjs/wasm-edit": 1.11.1
     "@webassemblyjs/wasm-parser": 1.11.1
@@ -6272,7 +6299,7 @@ fsevents@^2.3.2:
     acorn-import-assertions: ^1.7.6
     browserslist: ^4.14.5
     chrome-trace-event: ^1.0.2
-    enhanced-resolve: ^5.8.3
+    enhanced-resolve: ^5.9.2
     es-module-lexer: ^0.9.0
     eslint-scope: 5.1.1
     events: ^3.2.0
@@ -6292,7 +6319,7 @@ fsevents@^2.3.2:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: a7f810a5e1d4d78b533ca0caf42fa889839326073cedd3ac8e59e5c4890ca864ab0265fa5b2608715746ff3e34cbfaf4f15d56a92bc3f717a2f5c13202d58b6c
+  checksum: 00439884a9cdd5305aed3ce93735635785a15c5464a6d2cfce87e17727a07585de02420913e82aa85ddd2ae7322175d2cfda6ac0878a17f061cb605e6a7db57a
   languageName: node
   linkType: hard
 
