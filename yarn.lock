@@ -865,7 +865,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/expect-puppeteer@npm:^4.4.7":
+"@types/expect-puppeteer@npm:4.4.7":
   version: 4.4.7
   resolution: "@types/expect-puppeteer@npm:4.4.7"
   dependencies:
@@ -926,7 +926,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest-environment-puppeteer@npm:^4.4.1":
+"@types/jest-environment-puppeteer@npm:4.4.1":
   version: 4.4.1
   resolution: "@types/jest-environment-puppeteer@npm:4.4.1"
   dependencies:
@@ -1859,7 +1859,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"clean-webpack-plugin@npm:^4.0.0":
+"clean-webpack-plugin@npm:4.0.0":
   version: 4.0.0
   resolution: "clean-webpack-plugin@npm:4.0.0"
   dependencies:
@@ -2528,8 +2528,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "example@workspace:example"
   dependencies:
-    clean-webpack-plugin: ^4.0.0
-    html-webpack-plugin: ^5.5.0
+    clean-webpack-plugin: 4.0.0
+    html-webpack-plugin: 5.5.0
     html-webpack-plugin-django: "workspace:."
     webpack: 5.70.0
     webpack-cli: 4.9.2
@@ -3024,9 +3024,9 @@ fsevents@^2.3.2:
   version: 0.0.0-use.local
   resolution: "html-webpack-plugin-django@workspace:."
   dependencies:
-    "@types/expect-puppeteer": ^4.4.7
+    "@types/expect-puppeteer": 4.4.7
     "@types/jest": 27.4.1
-    "@types/jest-environment-puppeteer": ^4.4.1
+    "@types/jest-environment-puppeteer": 4.4.1
     "@types/node": 16.11.26
     "@types/puppeteer": 5.4.5
     html-webpack-plugin: ^5.5.0
@@ -3043,7 +3043,7 @@ fsevents@^2.3.2:
   languageName: unknown
   linkType: soft
 
-"html-webpack-plugin@npm:^5.5.0":
+"html-webpack-plugin@npm:5.5.0, html-webpack-plugin@npm:^5.5.0":
   version: 5.5.0
   resolution: "html-webpack-plugin@npm:5.5.0"
   dependencies:
