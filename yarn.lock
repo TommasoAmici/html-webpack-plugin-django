@@ -3036,7 +3036,7 @@ fsevents@^2.3.2:
     lint-staged: 12.3.5
     pinst: 2.1.6
     prettier: 2.5.1
-    puppeteer: 13.5.0
+    puppeteer: 13.5.1
     ts-jest: 27.1.3
     typescript: 4.6.2
     webpack: ^5.65.0
@@ -5162,9 +5162,9 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"puppeteer@npm:13.5.0":
-  version: 13.5.0
-  resolution: "puppeteer@npm:13.5.0"
+"puppeteer@npm:13.5.1":
+  version: 13.5.1
+  resolution: "puppeteer@npm:13.5.1"
   dependencies:
     cross-fetch: 3.1.5
     debug: 4.3.3
@@ -5178,7 +5178,7 @@ fsevents@^2.3.2:
     tar-fs: 2.1.1
     unbzip2-stream: 1.4.3
     ws: 8.5.0
-  checksum: 775f00950e106ed17db03895c6cb20e05fe234b91646e3978a35d1d5dfc1914beccd47dc901b40059056c056b6064bcbb444674065fb83dfa7a1243a7281fdfc
+  checksum: adf7511977d9300386cc2b2699d83c7f4c2e890fb00a5d7a7b41a11561b599b1f19b26ac4ae9d469ce567c87a22be6362160166f31aca135d94148f68aeff2cc
   languageName: node
   linkType: hard
 
