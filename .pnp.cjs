@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.4.1"],\
             ["@types/jest-environment-puppeteer", "npm:5.0.1"],\
             ["@types/node", "npm:16.11.31"],\
-            ["@types/puppeteer", "npm:5.4.5"],\
+            ["@types/puppeteer", "npm:5.4.6"],\
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.0"],\
             ["husky", "npm:7.0.4"],\
             ["jest", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:27.5.1"],\
@@ -1436,10 +1436,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:5.4.5", {\
-          "packageLocation": "./.yarn/cache/@types-puppeteer-npm-5.4.5-3aba8e17c7-a63fbc8aff.zip/node_modules/@types/puppeteer/",\
+        ["npm:5.4.6", {\
+          "packageLocation": "./.yarn/cache/@types-puppeteer-npm-5.4.6-eae5bd8fd0-b969230812.zip/node_modules/@types/puppeteer/",\
           "packageDependencies": [\
-            ["@types/puppeteer", "npm:5.4.5"],\
+            ["@types/puppeteer", "npm:5.4.6"],\
             ["@types/node", "npm:16.11.19"]\
           ],\
           "linkType": "HARD"\
@@ -3910,7 +3910,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest", "npm:27.4.1"],\
             ["@types/jest-environment-puppeteer", "npm:5.0.1"],\
             ["@types/node", "npm:16.11.31"],\
-            ["@types/puppeteer", "npm:5.4.5"],\
+            ["@types/puppeteer", "npm:5.4.6"],\
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.0"],\
             ["husky", "npm:7.0.4"],\
             ["jest", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:27.5.1"],\
@@ -4809,7 +4809,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/jest-puppeteer-virtual-2faa3a314f/0/cache/jest-puppeteer-npm-6.1.0-ffc599fe7f-1bc25c24ee.zip/node_modules/jest-puppeteer/",\
           "packageDependencies": [\
             ["jest-puppeteer", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.1.0"],\
-            ["@types/puppeteer", "npm:5.4.5"],\
+            ["@types/puppeteer", "npm:5.4.6"],\
             ["expect-puppeteer", "npm:6.1.0"],\
             ["jest-environment-puppeteer", "npm:6.0.3"],\
             ["puppeteer", "npm:13.6.0"]\
