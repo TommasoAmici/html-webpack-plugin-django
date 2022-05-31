@@ -41,7 +41,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/expect-puppeteer", "npm:4.4.7"],\
             ["@types/jest", "npm:27.5.1"],\
             ["@types/jest-environment-puppeteer", "npm:5.0.2"],\
-            ["@types/node", "npm:16.11.37"],\
+            ["@types/node", "npm:16.11.38"],\
             ["@types/puppeteer", "npm:5.4.6"],\
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.0"],\
             ["husky", "npm:7.0.4"],\
@@ -1410,10 +1410,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:16.11.37", {\
-          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.37-80e0d1b4a9-33caefb66f.zip/node_modules/@types/node/",\
+        ["npm:16.11.38", {\
+          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.38-1c4f053ff5-471df02016.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:16.11.37"]\
+            ["@types/node", "npm:16.11.38"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3916,7 +3916,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/expect-puppeteer", "npm:4.4.7"],\
             ["@types/jest", "npm:27.5.1"],\
             ["@types/jest-environment-puppeteer", "npm:5.0.2"],\
-            ["@types/node", "npm:16.11.37"],\
+            ["@types/node", "npm:16.11.38"],\
             ["@types/puppeteer", "npm:5.4.6"],\
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.0"],\
             ["husky", "npm:7.0.4"],\
