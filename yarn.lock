@@ -817,13 +817,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/expect-puppeteer@npm:4.4.7":
-  version: 4.4.7
-  resolution: "@types/expect-puppeteer@npm:4.4.7"
+"@types/expect-puppeteer@npm:5.0.1":
+  version: 5.0.1
+  resolution: "@types/expect-puppeteer@npm:5.0.1"
   dependencies:
     "@types/jest": "*"
     "@types/puppeteer": "*"
-  checksum: e99d655e0eaf8075f7c132faeac79b5ca5781f473c533d45a78a6427dd3518a747ff0233ce1bbc25a15c257c2700a8854dd73cb9ab14a0ba1a2989b977ab3335
+  checksum: d86fddfb4447498f9673dd3707dbb91431086ac15d74a14ceb6854d8c0680722214549614f20985a4bd58ed87ee6c7dd0a1a616248817cdfb5af4d6755d96df1
   languageName: node
   linkType: hard
 
@@ -2972,7 +2972,7 @@ fsevents@^2.3.2:
   version: 0.0.0-use.local
   resolution: "html-webpack-plugin-django@workspace:."
   dependencies:
-    "@types/expect-puppeteer": 4.4.7
+    "@types/expect-puppeteer": 5.0.1
     "@types/jest": 27.5.2
     "@types/jest-environment-puppeteer": 5.0.2
     "@types/node": 16.11.41
