@@ -38,7 +38,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@types/expect-puppeteer", "npm:4.4.7"],\
+            ["@types/expect-puppeteer", "npm:5.0.1"],\
             ["@types/jest", "npm:27.5.2"],\
             ["@types/jest-environment-puppeteer", "npm:5.0.2"],\
             ["@types/node", "npm:16.11.41"],\
@@ -1283,10 +1283,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/expect-puppeteer", [\
-        ["npm:4.4.7", {\
-          "packageLocation": "./.yarn/cache/@types-expect-puppeteer-npm-4.4.7-3bc499bf89-e99d655e0e.zip/node_modules/@types/expect-puppeteer/",\
+        ["npm:5.0.1", {\
+          "packageLocation": "./.yarn/cache/@types-expect-puppeteer-npm-5.0.1-e1eaea43b9-d86fddfb44.zip/node_modules/@types/expect-puppeteer/",\
           "packageDependencies": [\
-            ["@types/expect-puppeteer", "npm:4.4.7"],\
+            ["@types/expect-puppeteer", "npm:5.0.1"],\
             ["@types/jest", "npm:27.4.0"],\
             ["@types/puppeteer", "npm:5.4.4"]\
           ],\
@@ -3913,7 +3913,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["html-webpack-plugin-django", "workspace:."],\
-            ["@types/expect-puppeteer", "npm:4.4.7"],\
+            ["@types/expect-puppeteer", "npm:5.0.1"],\
             ["@types/jest", "npm:27.5.2"],\
             ["@types/jest-environment-puppeteer", "npm:5.0.2"],\
             ["@types/node", "npm:16.11.41"],\
