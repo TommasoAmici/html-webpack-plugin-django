@@ -41,7 +41,7 @@
     "@types/jest-environment-puppeteer": "5.0.2",
     "@types/node": "16.11.45",
     "@types/puppeteer": "5.4.6",
-    "husky": "7.0.4",
+    "husky": "8.0.1",
     "jest": "27.5.1",
     "jest-puppeteer": "6.1.1",
     "lint-staged": "12.5.0",
