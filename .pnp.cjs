@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@types/expect-puppeteer", "npm:4.4.7"],\
             ["@types/jest", "npm:27.5.2"],\
-            ["@types/jest-environment-puppeteer", "npm:5.0.2"],\
+            ["@types/jest-environment-puppeteer", "npm:5.0.3"],\
             ["@types/node", "npm:16.18.3"],\
             ["@types/puppeteer", "npm:5.4.7"],\
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.0"],\
@@ -1368,12 +1368,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/jest-environment-puppeteer", [\
-        ["npm:5.0.2", {\
-          "packageLocation": "./.yarn/cache/@types-jest-environment-puppeteer-npm-5.0.2-ab12e44b70-bb3314a80f.zip/node_modules/@types/jest-environment-puppeteer/",\
+        ["npm:5.0.3", {\
+          "packageLocation": "./.yarn/cache/@types-jest-environment-puppeteer-npm-5.0.3-201e807bf0-eb865f9ea9.zip/node_modules/@types/jest-environment-puppeteer/",\
           "packageDependencies": [\
-            ["@types/jest-environment-puppeteer", "npm:5.0.2"],\
+            ["@types/jest-environment-puppeteer", "npm:5.0.3"],\
             ["@jest/types", "npm:27.5.1"],\
-            ["@types/puppeteer", "npm:5.4.4"],\
+            ["@types/puppeteer", "npm:5.4.7"],\
             ["jest-environment-node", "npm:27.5.1"]\
           ],\
           "linkType": "HARD"\
@@ -3939,7 +3939,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["html-webpack-plugin-django", "workspace:."],\
             ["@types/expect-puppeteer", "npm:4.4.7"],\
             ["@types/jest", "npm:27.5.2"],\
-            ["@types/jest-environment-puppeteer", "npm:5.0.2"],\
+            ["@types/jest-environment-puppeteer", "npm:5.0.3"],\
             ["@types/node", "npm:16.18.3"],\
             ["@types/puppeteer", "npm:5.4.7"],\
             ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.0"],\
