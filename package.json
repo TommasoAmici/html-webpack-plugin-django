@@ -47,7 +47,7 @@
     "lint-staged": "13.2.2",
     "pinst": "3.0.0",
     "prettier": "2.8.8",
-    "puppeteer": "18.0.3",
+    "puppeteer": "19.11.1",
     "ts-jest": "27.1.5",
     "typescript": "5.0.4"
   },
