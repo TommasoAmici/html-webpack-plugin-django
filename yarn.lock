@@ -2522,7 +2522,7 @@ __metadata:
     clean-webpack-plugin: 4.0.0
     html-webpack-plugin: 5.5.1
     html-webpack-plugin-django: "workspace:."
-    webpack: 5.81.0
+    webpack: 5.82.0
     webpack-cli: 5.0.2
   languageName: unknown
   linkType: soft
@@ -6238,7 +6238,44 @@ resolve@^1.20.0:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.81.0, webpack@npm:^5.65.0":
+"webpack@npm:5.82.0":
+  version: 5.82.0
+  resolution: "webpack@npm:5.82.0"
+  dependencies:
+    "@types/eslint-scope": ^3.7.3
+    "@types/estree": ^1.0.0
+    "@webassemblyjs/ast": ^1.11.5
+    "@webassemblyjs/wasm-edit": ^1.11.5
+    "@webassemblyjs/wasm-parser": ^1.11.5
+    acorn: ^8.7.1
+    acorn-import-assertions: ^1.7.6
+    browserslist: ^4.14.5
+    chrome-trace-event: ^1.0.2
+    enhanced-resolve: ^5.13.0
+    es-module-lexer: ^1.2.1
+    eslint-scope: 5.1.1
+    events: ^3.2.0
+    glob-to-regexp: ^0.4.1
+    graceful-fs: ^4.2.9
+    json-parse-even-better-errors: ^2.3.1
+    loader-runner: ^4.2.0
+    mime-types: ^2.1.27
+    neo-async: ^2.6.2
+    schema-utils: ^3.1.2
+    tapable: ^2.1.1
+    terser-webpack-plugin: ^5.3.7
+    watchpack: ^2.4.0
+    webpack-sources: ^3.2.3
+  peerDependenciesMeta:
+    webpack-cli:
+      optional: true
+  bin:
+    webpack: bin/webpack.js
+  checksum: 499e7f5f24fccaa76f64f2a01f91f371073416f568ef6171dc73187a89078f0c33410d4c9f40d411f0827bab8455f8476eabd803ef4d2920d9a2e5f17efa2703
+  languageName: node
+  linkType: hard
+
+"webpack@npm:^5.65.0":
   version: 5.81.0
   resolution: "webpack@npm:5.81.0"
   dependencies:
