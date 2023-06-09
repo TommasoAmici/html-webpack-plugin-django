@@ -2520,7 +2520,7 @@ __metadata:
   resolution: "example@workspace:example"
   dependencies:
     clean-webpack-plugin: 4.0.0
-    html-webpack-plugin: 5.5.1
+    html-webpack-plugin: 5.5.2
     html-webpack-plugin-django: "workspace:."
     webpack: 5.86.0
     webpack-cli: 5.1.4
@@ -3044,7 +3044,22 @@ fsevents@^2.3.2:
   languageName: unknown
   linkType: soft
 
-"html-webpack-plugin@npm:5.5.1, html-webpack-plugin@npm:^5.5.0":
+"html-webpack-plugin@npm:5.5.2":
+  version: 5.5.2
+  resolution: "html-webpack-plugin@npm:5.5.2"
+  dependencies:
+    "@types/html-minifier-terser": ^6.0.0
+    html-minifier-terser: ^6.0.2
+    lodash: ^4.17.21
+    pretty-error: ^4.0.0
+    tapable: ^2.0.0
+  peerDependencies:
+    webpack: ^5.20.0
+  checksum: 0a5bb0447e3a277e8c03f12f25f32952b9a181fc76de70f3427d0c15296e4bffdb3a5753960dc3eee9e2ef7beaf2b5d938277a77cb8d0408a4e80c44c7451975
+  languageName: node
+  linkType: hard
+
+"html-webpack-plugin@npm:^5.5.0":
   version: 5.5.1
   resolution: "html-webpack-plugin@npm:5.5.1"
   dependencies:
