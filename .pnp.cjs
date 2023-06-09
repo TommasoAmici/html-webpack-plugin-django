@@ -38,7 +38,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest-environment-puppeteer", "npm:5.0.3"],\
             ["@types/node", "npm:16.18.34"],\
             ["@types/puppeteer", "npm:5.4.7"],\
-            ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.1"],\
+            ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.2"],\
             ["husky", "npm:7.0.4"],\
             ["jest", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:27.5.1"],\
             ["jest-puppeteer", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.2.0"],\
@@ -3915,13 +3915,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["html-webpack-plugin", [\
-        ["npm:5.5.1", {\
-          "packageLocation": "./.yarn/cache/html-webpack-plugin-npm-5.5.1-3bb416367d-f4b4327117.zip/node_modules/html-webpack-plugin/",\
-          "packageDependencies": [\
-            ["html-webpack-plugin", "npm:5.5.1"]\
-          ],\
-          "linkType": "SOFT"\
-        }],\
         ["npm:5.5.2", {\
           "packageLocation": "./.yarn/cache/html-webpack-plugin-npm-5.5.2-53296826c1-0a5bb0447e.zip/node_modules/html-webpack-plugin/",\
           "packageDependencies": [\
@@ -3947,10 +3940,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.1", {\
-          "packageLocation": "./.yarn/__virtual__/html-webpack-plugin-virtual-e9636d4c32/0/cache/html-webpack-plugin-npm-5.5.1-3bb416367d-f4b4327117.zip/node_modules/html-webpack-plugin/",\
+        ["virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.2", {\
+          "packageLocation": "./.yarn/__virtual__/html-webpack-plugin-virtual-fd2dc3cdf5/0/cache/html-webpack-plugin-npm-5.5.2-53296826c1-0a5bb0447e.zip/node_modules/html-webpack-plugin/",\
           "packageDependencies": [\
-            ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.1"],\
+            ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.2"],\
             ["@types/html-minifier-terser", "npm:6.0.0"],\
             ["@types/webpack", null],\
             ["html-minifier-terser", "npm:6.0.2"],\
@@ -3976,7 +3969,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/jest-environment-puppeteer", "npm:5.0.3"],\
             ["@types/node", "npm:16.18.34"],\
             ["@types/puppeteer", "npm:5.4.7"],\
-            ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.1"],\
+            ["html-webpack-plugin", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.5.2"],\
             ["husky", "npm:7.0.4"],\
             ["jest", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:27.5.1"],\
             ["jest-puppeteer", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:6.2.0"],\
