@@ -1,6 +1,6 @@
 {
   "name": "example",
-  "packageManager": "yarn@3.6.0",
+  "packageManager": "yarn@3.6.1",
   "scripts": {
     "dev": "webpack --watch --progress -d eval-source-map --mode development --performance-hints warning",
     "build-dev": "webpack -d eval-source-map --mode development --performance-hints warning",
