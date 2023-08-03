@@ -1698,7 +1698,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@webpack-cli/configtest", "virtual:fa15fcfda6017b67d300d452053b4af0534986dfc893eab97d885dd5d8625a5285224230b14bad81fbdb37411453fc690c26037b0275bca509eeb33894b07a4d#npm:2.1.1"],\
             ["@types/webpack", null],\
             ["@types/webpack-cli", null],\
-            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0"],\
+            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2"],\
             ["webpack-cli", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.1.4"]\
           ],\
           "packagePeers": [\
@@ -1724,7 +1724,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@webpack-cli/info", "virtual:fa15fcfda6017b67d300d452053b4af0534986dfc893eab97d885dd5d8625a5285224230b14bad81fbdb37411453fc690c26037b0275bca509eeb33894b07a4d#npm:2.0.2"],\
             ["@types/webpack", null],\
             ["@types/webpack-cli", null],\
-            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0"],\
+            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2"],\
             ["webpack-cli", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.1.4"]\
           ],\
           "packagePeers": [\
@@ -1751,7 +1751,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/webpack", null],\
             ["@types/webpack-cli", null],\
             ["@types/webpack-dev-server", null],\
-            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0"],\
+            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2"],\
             ["webpack-cli", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.1.4"],\
             ["webpack-dev-server", null]\
           ],\
@@ -2565,7 +2565,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["clean-webpack-plugin", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:4.0.0"],\
             ["@types/webpack", null],\
             ["del", "npm:4.1.1"],\
-            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0"]\
+            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2"]\
           ],\
           "packagePeers": [\
             "@types/webpack",\
@@ -3366,7 +3366,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["clean-webpack-plugin", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:4.0.0"],\
             ["html-webpack-plugin", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.5.3"],\
             ["html-webpack-plugin-django", "workspace:."],\
-            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0"],\
+            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2"],\
             ["webpack-cli", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.1.4"]\
           ],\
           "linkType": "SOFT"\
@@ -3941,7 +3941,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lodash", "npm:4.17.21"],\
             ["pretty-error", "npm:4.0.0"],\
             ["tapable", "npm:2.2.0"],\
-            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0"]\
+            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2"]\
           ],\
           "packagePeers": [\
             "@types/webpack",\
@@ -7143,36 +7143,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:c789fa2a8b45bb7739f093a0cb1cdc5c31b41d3c7d534ecbd294baef868c43625ffc6d668ace43edd295df837761ce405f6a89ec10075620d34cd08a4ca2f447#npm:5.3.7", {\
-          "packageLocation": "./.yarn/__virtual__/terser-webpack-plugin-virtual-41d2765c5d/0/cache/terser-webpack-plugin-npm-5.3.7-4bfad49798-095e699fde.zip/node_modules/terser-webpack-plugin/",\
-          "packageDependencies": [\
-            ["terser-webpack-plugin", "virtual:c789fa2a8b45bb7739f093a0cb1cdc5c31b41d3c7d534ecbd294baef868c43625ffc6d668ace43edd295df837761ce405f6a89ec10075620d34cd08a4ca2f447#npm:5.3.7"],\
-            ["@jridgewell/trace-mapping", "npm:0.3.18"],\
-            ["@swc/core", null],\
-            ["@types/esbuild", null],\
-            ["@types/swc__core", null],\
-            ["@types/uglify-js", null],\
-            ["@types/webpack", null],\
-            ["esbuild", null],\
-            ["jest-worker", "npm:27.5.1"],\
-            ["schema-utils", "npm:3.1.2"],\
-            ["serialize-javascript", "npm:6.0.1"],\
-            ["terser", "npm:5.16.9"],\
-            ["uglify-js", null],\
-            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0"]\
-          ],\
-          "packagePeers": [\
-            "@swc/core",\
-            "@types/esbuild",\
-            "@types/swc__core",\
-            "@types/uglify-js",\
-            "@types/webpack",\
-            "esbuild",\
-            "uglify-js",\
-            "webpack"\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["virtual:ca7e1195a04b04487c3af13d23e9335f20a55a0d6685c87ab7dbc2b6c0b686e9e91517752a836a8e43eca4cb70e48065fb9b8b1e44381331d3a2d90f917fe3d9#npm:5.3.7", {\
           "packageLocation": "./.yarn/__virtual__/terser-webpack-plugin-virtual-1d33a41856/0/cache/terser-webpack-plugin-npm-5.3.7-4bfad49798-095e699fde.zip/node_modules/terser-webpack-plugin/",\
           "packageDependencies": [\
@@ -7190,6 +7160,36 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["terser", "npm:5.16.9"],\
             ["uglify-js", null],\
             ["webpack", "virtual:28f5d5f765cf0212e71168ad09dc4ad8c279fe2469634eb3b193e272a7af9ceab62f7015c22c9aa157dd2f35140178c7778b70fd6ee94ac16e323f415f7471ce#npm:5.86.0"]\
+          ],\
+          "packagePeers": [\
+            "@swc/core",\
+            "@types/esbuild",\
+            "@types/swc__core",\
+            "@types/uglify-js",\
+            "@types/webpack",\
+            "esbuild",\
+            "uglify-js",\
+            "webpack"\
+          ],\
+          "linkType": "HARD"\
+        }],\
+        ["virtual:e8baa33da20620f3e4af1c173fbc4c5ab79e164a56d985c5f5259734b0d10677dada69ae868eadf2c8fd8d93ba46750ea7d6e98c88e02091623a94d4a061f21d#npm:5.3.7", {\
+          "packageLocation": "./.yarn/__virtual__/terser-webpack-plugin-virtual-33088c71da/0/cache/terser-webpack-plugin-npm-5.3.7-4bfad49798-095e699fde.zip/node_modules/terser-webpack-plugin/",\
+          "packageDependencies": [\
+            ["terser-webpack-plugin", "virtual:e8baa33da20620f3e4af1c173fbc4c5ab79e164a56d985c5f5259734b0d10677dada69ae868eadf2c8fd8d93ba46750ea7d6e98c88e02091623a94d4a061f21d#npm:5.3.7"],\
+            ["@jridgewell/trace-mapping", "npm:0.3.18"],\
+            ["@swc/core", null],\
+            ["@types/esbuild", null],\
+            ["@types/swc__core", null],\
+            ["@types/uglify-js", null],\
+            ["@types/webpack", null],\
+            ["esbuild", null],\
+            ["jest-worker", "npm:27.5.1"],\
+            ["schema-utils", "npm:3.1.2"],\
+            ["serialize-javascript", "npm:6.0.1"],\
+            ["terser", "npm:5.16.9"],\
+            ["uglify-js", null],\
+            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2"]\
           ],\
           "packagePeers": [\
             "@swc/core",\
@@ -7568,17 +7568,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["npm:5.87.0", {\
-          "packageLocation": "./.yarn/cache/webpack-npm-5.87.0-205489994f-b7d0e390f9.zip/node_modules/webpack/",\
+        ["npm:5.88.2", {\
+          "packageLocation": "./.yarn/cache/webpack-npm-5.88.2-38717ace6f-79476a782d.zip/node_modules/webpack/",\
           "packageDependencies": [\
-            ["webpack", "npm:5.87.0"]\
+            ["webpack", "npm:5.88.2"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0", {\
-          "packageLocation": "./.yarn/__virtual__/webpack-virtual-c789fa2a8b/0/cache/webpack-npm-5.87.0-205489994f-b7d0e390f9.zip/node_modules/webpack/",\
+        ["virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2", {\
+          "packageLocation": "./.yarn/__virtual__/webpack-virtual-e8baa33da2/0/cache/webpack-npm-5.88.2-38717ace6f-79476a782d.zip/node_modules/webpack/",\
           "packageDependencies": [\
-            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0"],\
+            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2"],\
             ["@types/eslint-scope", "npm:3.7.3"],\
             ["@types/estree", "npm:1.0.0"],\
             ["@types/webpack-cli", null],\
@@ -7601,7 +7601,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["neo-async", "npm:2.6.2"],\
             ["schema-utils", "npm:3.3.0"],\
             ["tapable", "npm:2.2.0"],\
-            ["terser-webpack-plugin", "virtual:c789fa2a8b45bb7739f093a0cb1cdc5c31b41d3c7d534ecbd294baef868c43625ffc6d668ace43edd295df837761ce405f6a89ec10075620d34cd08a4ca2f447#npm:5.3.7"],\
+            ["terser-webpack-plugin", "virtual:e8baa33da20620f3e4af1c173fbc4c5ab79e164a56d985c5f5259734b0d10677dada69ae868eadf2c8fd8d93ba46750ea7d6e98c88e02091623a94d4a061f21d#npm:5.3.7"],\
             ["watchpack", "npm:2.4.0"],\
             ["webpack-cli", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.1.4"],\
             ["webpack-sources", "npm:3.2.3"]\
@@ -7679,7 +7679,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["import-local", "npm:3.0.2"],\
             ["interpret", "npm:3.1.1"],\
             ["rechoir", "npm:0.8.0"],\
-            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.87.0"],\
+            ["webpack", "virtual:260cbded26170ad9574d8af795f720c814500bad7a46f467f26b2daa1d7cb0583916d1f4f34948412d6d3e69e4f2781f1908be54ba6e3e97f1f75b8445445101#npm:5.88.2"],\
             ["webpack-bundle-analyzer", null],\
             ["webpack-dev-server", null],\
             ["webpack-merge", "npm:5.8.0"]\
@@ -16659,7 +16659,6 @@ function reportRequiredFilesToWatchMode(files) {
 }
 
 function applyPatch(pnpapi, opts) {
-  const defaultCache = {};
   let enableNativeHooks = true;
   process.versions.pnp = String(pnpapi.VERSIONS.std);
   const moduleExports = require$$0__default.default;
@@ -16679,62 +16678,13 @@ function applyPatch(pnpapi, opts) {
   }
   const originalModuleLoad = require$$0.Module._load;
   require$$0.Module._load = function(request, parent, isMain) {
-    if (!enableNativeHooks)
-      return originalModuleLoad.call(require$$0.Module, request, parent, isMain);
-    if (isBuiltinModule(request)) {
-      try {
-        enableNativeHooks = false;
-        return originalModuleLoad.call(require$$0.Module, request, parent, isMain);
-      } finally {
-        enableNativeHooks = true;
+    if (request === `pnpapi`) {
+      const parentApiPath = opts.manager.getApiPathFromParent(parent);
+      if (parentApiPath) {
+        return opts.manager.getApiEntry(parentApiPath, true).instance;
       }
     }
-    const parentApiPath = opts.manager.getApiPathFromParent(parent);
-    const parentApi = parentApiPath !== null ? opts.manager.getApiEntry(parentApiPath, true).instance : null;
-    if (parentApi === null)
-      return originalModuleLoad(request, parent, isMain);
-    if (request === `pnpapi`)
-      return parentApi;
-    const modulePath = require$$0.Module._resolveFilename(request, parent, isMain);
-    const isOwnedByRuntime = parentApi !== null ? parentApi.findPackageLocator(modulePath) !== null : false;
-    const moduleApiPath = isOwnedByRuntime ? parentApiPath : opts.manager.findApiPathFor(npath.dirname(modulePath));
-    const entry = moduleApiPath !== null ? opts.manager.getApiEntry(moduleApiPath) : { instance: null, cache: defaultCache };
-    const cacheEntry = entry.cache[modulePath];
-    if (cacheEntry) {
-      if (cacheEntry.loaded === false && cacheEntry.isLoading !== true) {
-        try {
-          cacheEntry.isLoading = true;
-          if (isMain) {
-            process.mainModule = cacheEntry;
-            cacheEntry.id = `.`;
-          }
-          cacheEntry.load(modulePath);
-        } finally {
-          cacheEntry.isLoading = false;
-        }
-      }
-      return cacheEntry.exports;
-    }
-    const module = new require$$0.Module(modulePath, parent != null ? parent : void 0);
-    module.pnpApiPath = moduleApiPath;
-    reportRequiredFilesToWatchMode([modulePath]);
-    entry.cache[modulePath] = module;
-    if (isMain) {
-      process.mainModule = module;
-      module.id = `.`;
-    }
-    let hasThrown = true;
-    try {
-      module.isLoading = true;
-      module.load(modulePath);
-      hasThrown = false;
-    } finally {
-      module.isLoading = false;
-      if (hasThrown) {
-        delete require$$0.Module._cache[modulePath];
-      }
-    }
-    return module.exports;
+    return originalModuleLoad.call(require$$0.Module, request, parent, isMain);
   };
   function getIssuerSpecsFromPaths(paths) {
     return paths.map((path) => ({
@@ -16802,7 +16752,7 @@ function applyPatch(pnpapi, opts) {
       const parentDirectory = (parent == null ? void 0 : parent.filename) != null ? npath.dirname(parent.filename) : null;
       const absoluteRequest = npath.isAbsolute(request) ? request : parentDirectory !== null ? npath.resolve(parentDirectory, request) : null;
       if (absoluteRequest !== null) {
-        const apiPath = parentDirectory === npath.dirname(absoluteRequest) && (parent == null ? void 0 : parent.pnpApiPath) ? parent.pnpApiPath : opts.manager.findApiPathFor(absoluteRequest);
+        const apiPath = parent && parentDirectory === npath.dirname(absoluteRequest) ? opts.manager.getApiPathFromParent(parent) : opts.manager.findApiPathFor(absoluteRequest);
         if (apiPath !== null) {
           issuerSpecs.unshift({
             apiPath,
@@ -18523,7 +18473,6 @@ function makeManager(pnpapi, opts) {
   const initialApiStats = opts.fakeFs.statSync(npath.toPortablePath(initialApiPath));
   const apiMetadata = /* @__PURE__ */ new Map([
     [initialApiPath, {
-      cache: require$$0.Module._cache,
       instance: pnpapi,
       stats: initialApiStats,
       lastRefreshCheck: Date.now()
@@ -18555,7 +18504,6 @@ function makeManager(pnpapi, opts) {
       }
     } else {
       apiMetadata.set(pnpApiPath, apiEntry = {
-        cache: {},
         instance: loadApiInstance(pnpApiPath),
         stats: opts.fakeFs.statSync(pnpApiPath),
         lastRefreshCheck: Date.now()
@@ -18625,19 +18573,16 @@ ${controlSegment}
     } while (curr !== PortablePath.root);
     return addToCacheAndReturn(start, curr, null);
   }
+  const moduleToApiPathCache = /* @__PURE__ */ new WeakMap();
   function getApiPathFromParent(parent) {
     if (parent == null)
       return initialApiPath;
-    if (typeof parent.pnpApiPath === `undefined`) {
-      if (parent.filename !== null) {
-        return parent.pnpApiPath = findApiPathFor(parent.filename);
-      } else {
-        return initialApiPath;
-      }
-    }
-    if (parent.pnpApiPath !== null)
-      return parent.pnpApiPath;
-    return null;
+    let apiPath = moduleToApiPathCache.get(parent);
+    if (typeof apiPath !== `undefined`)
+      return apiPath;
+    apiPath = parent.filename ? findApiPathFor(parent.filename) : null;
+    moduleToApiPathCache.set(parent, apiPath);
+    return apiPath;
   }
   return {
     getApiPathFromParent,
