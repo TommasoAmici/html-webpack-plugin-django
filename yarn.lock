@@ -840,13 +840,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/expect-puppeteer@npm:4.4.7":
-  version: 4.4.7
-  resolution: "@types/expect-puppeteer@npm:4.4.7"
+"@types/expect-puppeteer@npm:5.0.6":
+  version: 5.0.6
+  resolution: "@types/expect-puppeteer@npm:5.0.6"
   dependencies:
     "@types/jest": "*"
-    "@types/puppeteer": "*"
-  checksum: e99d655e0eaf8075f7c132faeac79b5ca5781f473c533d45a78a6427dd3518a747ff0233ce1bbc25a15c257c2700a8854dd73cb9ab14a0ba1a2989b977ab3335
+    "@types/puppeteer": ^5.4.0
+  checksum: d8de9cf03fb15cbc4f5798b568d29cfd9937fba102322be66275af020ebf4e2ab45d570b082cf946fdf5da6c19a9dfd201f8bf9e91a00962db1425a24a45de44
   languageName: node
   linkType: hard
 
@@ -964,15 +964,6 @@ __metadata:
   version: 2.3.0
   resolution: "@types/prettier@npm:2.3.0"
   checksum: 8dd9b5263fd91001d72ca4e2ff89fb0d1ba23a450bd723b4478eb651755a2f1151af14ab90c4f7dadba607142757b340c1d7271ae56806563c76719d3321ec20
-  languageName: node
-  linkType: hard
-
-"@types/puppeteer@npm:*":
-  version: 5.4.4
-  resolution: "@types/puppeteer@npm:5.4.4"
-  dependencies:
-    "@types/node": "*"
-  checksum: 99aa9e8fe0234b5624e93b36e38b407c48e2b9663c46dfc651ee37819e7ce1d19dfcd61d5b3f23b3d0b0f606615e0f298a86b3116a1b3cd09aa139204731e3b1
   languageName: node
   linkType: hard
 
@@ -3048,7 +3039,7 @@ fsevents@^2.3.2:
   version: 0.0.0-use.local
   resolution: "html-webpack-plugin-django@workspace:."
   dependencies:
-    "@types/expect-puppeteer": 4.4.7
+    "@types/expect-puppeteer": 5.0.6
     "@types/jest": 27.5.2
     "@types/jest-environment-puppeteer": 5.0.5
     "@types/node": 16.18.59
