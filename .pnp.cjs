@@ -33,7 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@types/expect-puppeteer", "npm:4.4.7"],\
+            ["@types/expect-puppeteer", "npm:5.0.6"],\
             ["@types/jest", "npm:27.5.2"],\
             ["@types/jest-environment-puppeteer", "npm:5.0.5"],\
             ["@types/node", "npm:16.18.59"],\
@@ -1313,12 +1313,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/expect-puppeteer", [\
-        ["npm:4.4.7", {\
-          "packageLocation": "./.yarn/cache/@types-expect-puppeteer-npm-4.4.7-3bc499bf89-e99d655e0e.zip/node_modules/@types/expect-puppeteer/",\
+        ["npm:5.0.6", {\
+          "packageLocation": "./.yarn/cache/@types-expect-puppeteer-npm-5.0.6-0323eeda91-d8de9cf03f.zip/node_modules/@types/expect-puppeteer/",\
           "packageDependencies": [\
-            ["@types/expect-puppeteer", "npm:4.4.7"],\
+            ["@types/expect-puppeteer", "npm:5.0.6"],\
             ["@types/jest", "npm:27.4.0"],\
-            ["@types/puppeteer", "npm:5.4.4"]\
+            ["@types/puppeteer", "npm:5.4.7"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -1458,14 +1458,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@types/puppeteer", [\
-        ["npm:5.4.4", {\
-          "packageLocation": "./.yarn/cache/@types-puppeteer-npm-5.4.4-ba42442cab-99aa9e8fe0.zip/node_modules/@types/puppeteer/",\
-          "packageDependencies": [\
-            ["@types/puppeteer", "npm:5.4.4"],\
-            ["@types/node", "npm:16.11.19"]\
-          ],\
-          "linkType": "HARD"\
-        }],\
         ["npm:5.4.7", {\
           "packageLocation": "./.yarn/cache/@types-puppeteer-npm-5.4.7-b2729bae9f-491c0ca2d8.zip/node_modules/@types/puppeteer/",\
           "packageDependencies": [\
@@ -3988,7 +3980,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["html-webpack-plugin-django", "workspace:."],\
-            ["@types/expect-puppeteer", "npm:4.4.7"],\
+            ["@types/expect-puppeteer", "npm:5.0.6"],\
             ["@types/jest", "npm:27.5.2"],\
             ["@types/jest-environment-puppeteer", "npm:5.0.5"],\
             ["@types/node", "npm:16.18.59"],\
