@@ -953,10 +953,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.18.59":
-  version: 16.18.59
-  resolution: "@types/node@npm:16.18.59"
-  checksum: 70f28744d239c48db056ff6355d2eb99305db54d1f9377b3f4458e92ffb4da8962a0c67665452d5f430cea2286ced256dac8f769660007aedd3676cf03ff28ad
+"@types/node@npm:16.18.114":
+  version: 16.18.114
+  resolution: "@types/node@npm:16.18.114"
+  checksum: 2922009367d1c9c1a42ec11b66fc315629589455c7c5c7be5212fcdfe5c01655881ef7d1b862fe6fdad006a6b34e4fce0565a74db0d6a38f869b5d87601f6339
   languageName: node
   linkType: hard
 
@@ -3051,7 +3051,7 @@ fsevents@^2.3.2:
     "@types/expect-puppeteer": 4.4.7
     "@types/jest": 27.5.2
     "@types/jest-environment-puppeteer": 5.0.5
-    "@types/node": 16.18.59
+    "@types/node": 16.18.114
     "@types/puppeteer": 5.4.7
     html-webpack-plugin: ^5.5.0
     husky: 7.0.4
